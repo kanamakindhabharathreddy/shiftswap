@@ -89,4 +89,6 @@ The difficult part is the difference between a pending claim and an assignment. 
 
 ## Submission
 
+The [project presentation](docs/ShiftSwap_Hackathon_Presentation.pptx) contains eight editable slides with application screenshots and presenter notes. It covers the workflow, scheduling rules, architecture, persistence and verified results. It can also be attached to the submission email.
+
 Include README.md and AI_USAGE.md in the final repository. Commit and push everything before your organizer's strict deadline. Optional deployment must use the final commit; do not make commits after the deadline or store the deployment submission link in the repo.

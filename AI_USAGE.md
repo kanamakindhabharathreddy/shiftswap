@@ -15,3 +15,5 @@ During development, the illustrative data was replaced with the organizer's seed
 I kept the solution within the requested workflow: no login, real-date eligibility cutoffs, map integrations or pending claims counted as assignments. Deployment remains optional.
 
 This submission includes AI-assisted code. I am responsible for the submitted solution and for understanding and explaining its implementation and decisions.
+
+I also used AI to prepare a short project presentation with application screenshots and presenter notes. The presentation summarizes the implemented workflows and verified results.
