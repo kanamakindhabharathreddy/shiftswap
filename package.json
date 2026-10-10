@@ -1,0 +1,6 @@
+{
+  "name": "shiftswap", "version": "1.0.0", "private": true,
+  "description": "Persistent clinic shift swaps with eligibility validation and manager approval",
+  "type": "module", "engines": { "node": ">=24" },
+  "scripts": { "start": "node server.js", "test": "node --test" }
+}
